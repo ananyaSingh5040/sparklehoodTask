@@ -20,7 +20,7 @@ git clone https://github.com/your-username/incident-log-api.git
 ### 2. Install dependencies
 npm install
 ### 3. Create .env file
-MONGO_URI=mongodb://localhost:27017/sparklehood
+MONGO_URI=mongodb://localhost:27017/<exampledb>
 PORT=8001
 
 
