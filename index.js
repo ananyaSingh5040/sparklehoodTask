@@ -11,7 +11,7 @@ connectDB(process.env.MONGO_URI).then(()=>{
 // middlewares
 app.use(express.json());
 // routes:
-app.use("/api/incidents",router);
+app.use("/incidents",router);
 
 app.listen(PORT, "0.0.0.0",()=>{
     console.log(`Sever running on PORT: ${PORT}`);
