@@ -32,6 +32,14 @@ PORT=8001
 
 node index.js
 
+### To Test API Points:
+(I used Postman)
+
+GET/incidents - http://localhost:8001/incidents
+POST/incidents - http://localhost:8001/incidents
+GET/incidents/:id - http://localhost:8001/incidents/<id>
+DELETE/incidents/:id - http://localhost:8001/incidents/<id>
+
 ## Database Schema
 
 Each Incident contains the following fields:
