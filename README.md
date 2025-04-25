@@ -17,7 +17,7 @@ This is a simple RESTful API built with **Node.js (Express)** and **MongoDB (Mon
 
 ### 1. Clone the repo
 
-git clone https://github.com/your-username/incident-log-api.git
+git clone https://github.com/ananyaSingh5040/sparklehoodTask.git
 
 ### 2. Install dependencies
 
